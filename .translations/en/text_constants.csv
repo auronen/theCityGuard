@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"SCRIPTS/CONTENT/gothic.d:4039","Polowanie na szczury","Polowanie na szczury","","","topic_addon_rathunt","",""
+"SCRIPTS/CONTENT/gothic.d:4039","Polowanie na szczury","Rat hunt","","False","topic_addon_rathunt","",""
 "SCRIPTS/CONTENT/gothic.d:4041","Mięso dla Morgana","Meat for Morgan","","False","topic_addon_bringmeat","",""
 "SCRIPTS/CONTENT/gothic.d:4043","Wieża","It's gone","","False","topic_addon_banditstower","",""
 "SCRIPTS/CONTENT/gothic.d:4045","Drewno na palisadę","Palisade wood","","False","topic_addon_holowen","",""
