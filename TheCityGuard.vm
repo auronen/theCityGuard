@@ -1,0 +1,10 @@
+[BEGINVDF]
+Comment=
+BaseDir=C:\GOG Games\Gothic-2-TheCityGuard
+VDFName=C:\GOG Games\Gothic-2-TheCityGuard\Data\modvdf\cityguard_en.mod
+[FILES]
+_work\Data\Scripts\_compiled\GOTHIC.DAT -r
+_work\Data\Scripts\CONTENT\CUTSCENE\OU.BIN -r
+[EXCLUDE]
+[INCLUDE]
+[ENDVDF]
