@@ -761,7 +761,7 @@
 "SCRIPTS/CONTENT/gothic.d:11975","Jesteśmy trzema braćmi z kasty.","We are three brothers from the same caste.","","","print_addon_kumu_01","",""
 "SCRIPTS/CONTENT/gothic.d:11977","Razem jesteśmy silniejsi.","Together we are stronger.","","","print_addon_kumu_02","",""
 "SCRIPTS/CONTENT/gothic.d:11979","Czekaj. Z powodu ziela...","Czekaj. Z powodu ziela...","","","print_addon_nadjawait","",""
-"SCRIPTS/CONTENT/gothic.d:11981","Złoto: ","Z³oto: ","","","name_currency","",""
+"SCRIPTS/CONTENT/gothic.d:11981","Złoto: ","Gold: ","","False","name_currency","",""
 "SCRIPTS/CONTENT/gothic.d:11983","Brakuje ci złota na zakup tego przedmiotu.","You don't have enough gold to buy this item.","","","print_trade_not_enough_gold","",""
 "SCRIPTS/CONTENT/gothic.d:11985","Wartość:","Value:","","","name_value","",""
 "SCRIPTS/CONTENT/gothic.d:11987","Krąg:","Circle:","","","name_mag_circle","",""
